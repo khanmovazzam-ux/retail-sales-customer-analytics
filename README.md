@@ -58,6 +58,13 @@ The dashboard includes:
 - Data cleaning
 - Data visualization
 - Dashboard development
+- ## Power BI Dashboard
+
+![Power BI Dashboard](Screenshot%202026-08-14%20200052.png)
+
+### Power BI File
+
+[Download the Power BI Dashboard](sql%20and%20powerbi%20project.pbix)
 - Business insights
 
 ## Project Outcome
