@@ -1,0 +1,31 @@
+customer_id,customer_name,gender,age,city,state,signup_date
+101,"Rahul Sharma",Male,43,Vijayawada,"Andhra Pradesh",2024-09-18
+102,"Aisha Khan",Female,27,Mumbai,Maharashtra,2025-01-22
+103,"John Mathew",Male,35,Kochi,Kerala,2024-11-07
+104,"Sara Thomas",Female,31,Chennai,"Tamil Nadu",2024-04-13
+105,"Ali Ahmed",Male,24,Delhi,Delhi,2025-02-19
+106,"Priya Reddy",Female,42,Hyderabad,Telangana,2024-06-25
+107,"Karan Singh",Male,29,Pune,Maharashtra,2024-10-03
+108,"Meera Nair",Female,38,Bengaluru,Karnataka,2025-03-11
+109,"David Joseph",Male,51,Kochi,Kerala,2024-07-29
+110,"Sneha Rao",Female,26,Hyderabad,Telangana,2024-12-15
+111,"Rohit Kumar",Male,33,Jaipur,Rajasthan,2025-01-08
+112,"Fatima Begum",Female,45,Mumbai,Maharashtra,2024-05-17
+113,"Vikas Patel",Male,30,Ahmedabad,Gujarat,2024-08-21
+114,"Anjali Verma",Female,28,Delhi,Delhi,2025-02-03
+115,"Arjun Das",Male,39,Chennai,"Tamil Nadu",2024-09-30
+116,"Neha Kapoor",Female,23,Pune,Maharashtra,2025-03-05
+117,"Vivek Menon",Male,47,Kochi,Kerala,2024-03-19
+118,"Pooja Iyer",Female,34,Bengaluru,Karnataka,2024-11-28
+119,"Aman Gupta",Male,21,Jaipur,Rajasthan,2025-01-26
+120,"Riya Shah",Female,32,Ahmedabad,Gujarat,2024-06-09
+121,"Imran Ali",Male,37,Hyderabad,Telangana,2024-10-14
+122,"Kavya Rao",Female,25,Vijayawada,"Andhra Pradesh",2025-02-12
+123,"Sanjay Yadav",Male,44,Delhi,Delhi,2024-04-26
+124,"Nisha Paul",Female,29,Kochi,Kerala,2024-12-02
+125,"Aditya Jain",Male,36,Mumbai,Maharashtra,2024-07-11
+126,"Farah Khan",Female,41,Bengaluru,Karnataka,2025-03-16
+127,"Manish Verma",Male,48,Pune,Maharashtra,2024-05-30
+128,"Divya Nair",Female,30,Chennai,"Tamil Nadu",2024-08-08
+129,"Rakesh Singh",Male,27,Jaipur,Rajasthan,2025-01-14
+130,"Tanya Roy",Female,22,Ahmedabad,Gujarat,2024-09-05

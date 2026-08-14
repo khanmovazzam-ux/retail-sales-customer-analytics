@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,unit_price
+201,"Laptop Pro 14",Electronics,TechNova,65000.00
+202,"Smartphone X",Electronics,TechNova,32000.00
+203,"Wireless Headphones",Electronics,SoundMax,4500.00
+204,"Smartwatch Fit",Electronics,Pulse,7000.00
+205,"Bluetooth Speaker",Electronics,SoundMax,3500.00
+206,"Running Shoes",Footwear,Stride,4200.00
+207,"Casual Sneakers",Footwear,UrbanStep,3000.00
+208,"Formal Shoes",Footwear,UrbanStep,3800.00
+209,"Cotton T-Shirt",Clothing,StyleHub,900.00
+210,"Denim Jeans",Clothing,StyleHub,1800.00
+211,"Winter Jacket",Clothing,NorthPeak,3200.00
+212,"Coffee Maker",Home,HomeEase,5500.00
+213,"Air Fryer",Home,HomeEase,6200.00
+214,"Mixer Grinder",Home,KitchenPro,4800.00
+215,"Office Chair",Home,ComfortDesk,8500.00
+216,"Face Wash",Beauty,GlowCare,450.00
+217,Perfume,Beauty,Aura,2200.00
+218,Moisturizer,Beauty,GlowCare,900.00
+219,"Yoga Mat",Sports,FlexFit,1200.00
+220,"Cricket Bat",Sports,SportPro,2800.00
